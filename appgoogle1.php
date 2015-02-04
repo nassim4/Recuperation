@@ -2,20 +2,18 @@
 <html>
 
 --> <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" >
-<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> 
   <script type="text/javascript" src="http://www.amcharts.com/lib/3/amcharts.js"></script>
-  <script type="text/javascript" src="http://www.amcharts.com/lib/3/pieDonut3D.js"></script>
-  <script type="text/javascript" src="http://www.amcharts.com/lib/3/themes/none.js"></script>
-    <script type="text/javascript" src="http://www.amcharts.com/lib/3/serial.js"></script>
-     <script type="text/javascript" src="http://www.amcharts.com/lib/3/Column.js"></script>
+ 
+  
     <script type="text/javascript" src="http://www.amcharts.com/lib/3/pie.js"></script>
-      <script type="text/javascript" src="http://www.amcharts.com/lib/3/funnel.js"></script>
+      
       <script src="amcharts/amcharts/amcharts.js" type="text/javascript"></script>
-        <script src="amcharts/amcharts/funnel.js" type="text/javascript"></script>  
-        <script src="amcharts/amcharts/pie.js" type="text/javascript"></script> 
-        <script src="amcharts/amcharts/serial.js" type="text/javascript"></script>  
-                        <script type="text/javascript" src="pais1.js"></script>
+        
+        
+        
+                        
   <head>
         <style>
             tr:nth-child(even){
@@ -95,8 +93,7 @@ tartapie($tourismo,"tarta","50%","250px");
    
     ?>
 
-<div id="columnchart"></div>
-<div id="graficaVisitas2013_div"style="width: 1000px; height: 500px;"></div>
+
     </body>
 </html>
 
